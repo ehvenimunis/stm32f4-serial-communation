@@ -1,4 +1,4 @@
-# stm32f407vg-discovery-serial-communation
+# Serial Communation Project
 
 #### Hardware: STM32F4 
 
